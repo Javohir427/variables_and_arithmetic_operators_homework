@@ -7,5 +7,5 @@
 # find the difference of a and b then assign to "answer"
 a = 6
 b = 2
-Javob = a-b
-print(Javob)
+answer = a-b
+print(answer)
