@@ -7,5 +7,5 @@
 # Find the sum of a and b than assign to 'answer'
 a = 3 
 b = 4
-Javob = a+b
-print(Javob)
+answer = a+b
+print(answer)
