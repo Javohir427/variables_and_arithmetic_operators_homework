@@ -7,5 +7,5 @@
 # Find the division of a and b then assign to "answer".
 a = 72
 b = 9
-javob = a/b
-print(javob)
+answer = a/b
+print(answer)
