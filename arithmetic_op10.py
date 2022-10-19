@@ -3,3 +3,9 @@
 # Create a variable called 'answer'.
 
 # Find the expression value assign to 'answer'. 2^n.
+# from multiprocessing.connection import answer_challenge
+
+
+n = 4 
+answer = 2**n
+print(answer)
