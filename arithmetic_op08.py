@@ -7,6 +7,9 @@
 # Create a variable called 'answer'.
 
 # Find the expression value assign to 'answer'. a*b:c
+#from platform import python_branch
+
+
 a = 3
 b = 4
 c = 2
